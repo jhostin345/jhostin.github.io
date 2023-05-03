@@ -1,0 +1,215 @@
+#cuerpo{
+   background-color: rgb(189, 215, 223);
+   width:450px;
+   height: 225px;;
+   text-align:center;
+   margin-left:400px;
+   margin-top:100px;
+}
+#body{
+    background-color: rgba(165, 165, 165, 0.795);
+    
+}
+#titulo{
+    text-align: center;
+}
+#imagen{   
+    width:20%;
+    height:20vh;
+    margin-left: 450px;
+}
+#imagen1{   
+    width:30%;
+    height:50vh;
+    margin-left:450px;
+}
+#imagen2{  
+    align-items: center; 
+    width:20%;
+    height:20vh;
+}
+#imagen2{   
+    width:20%;
+    height:20vh;
+}
+#imagen2{   
+    width:20%;
+    height:20vh;
+}
+#at{
+    width:6%;
+    height:10vh;
+}
+#tabla{
+    border:solid;
+
+}
+table tr,td{
+    border:solid
+}
+#rojo{
+    color:rgb(189, 215, 223);
+}
+strong{
+    color: rgb(111, 145, 190);
+}
+#texto{
+    text-align: center;
+}
+#cua{
+    padding-top: 2rem;
+    text-align: left;
+    width:40%;
+    height:52vh;
+    background-color: #bdd6e3;
+    font-size: 1.3rem;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}  
+#cua a{
+    text-decoration: none;
+}
+
+#p{
+    color:rgb(185, 28, 28);
+    font-size: 60px;
+}
+
+#tres{
+    color:rgb(26, 92, 17);
+    font-size: 60px;
+}
+#fila1{
+background-color: rgb(214, 185, 55);
+
+}
+#fila2{
+background-color: rgb(29, 41, 206);
+    
+}
+#fila3{
+background-color: rgb(252, 63, 63);
+    
+}
+#jpeg{
+
+    width:20%;
+    height:20vh;
+
+
+}
+#cuerpo{
+text-align: justify;
+
+
+}
+#dos{
+background-color: rgb(214, 185, 55);
+}
+#h{
+background-color: rgba(100, 105, 68, 0.795);
+}
+#c{
+background-color: rgb(79, 116, 131);
+}
+#row1{
+    background-color: rgb(79, 116, 131);
+    }#row2{
+        background-color: rgb(122, 136, 141);
+        }#row3{
+            background-color: rgb(72, 140, 167);
+            }#row4{
+                background-color: rgb(55, 144, 179);
+                }
+            #row5{
+                background-color: rgb(15, 91, 121);
+                }
+             #row6{
+                    background-color: rgb(121, 133, 138);
+                    }
+                    #row1{
+                        background-color: rgb(236, 237, 238);
+                    }
+                    #row7{
+                        background-color: rgb(236, 237, 238);
+                    }
+                    #row8{
+                        background-color: rgb(95, 100, 106);
+                    }
+                    #row9{
+                        background-color: rgb(165, 170, 175);
+                    }
+                    #row10{
+                        background-color: rgb(199, 169, 33);
+                    }                    
+                    #row11{
+                        background-color: rgb(172, 163, 33);
+                    }
+                    #row12{
+                        background-color: rgb(204, 106, 53);
+                    }   
+                    #row13{
+                        background-color: rgb(221, 44, 44);
+                    }
+                    #row14{
+                        background-color: rgb(125, 37, 188);
+                    }
+                    #row15{
+                        background-color: rgb(8, 106, 205);
+                    }
+                    #row16{
+                        background-color: rgb(63, 56, 161);
+                    }
+                    #row17{
+                        background-color: rgb(49, 161, 68);
+                    }
+                    #row18{
+                        color: aliceblue;
+                        background-color: rgba(1, 1, 1, 0.768);
+                    }
+                    #cuadro1{
+                        background-color: rgba(48, 159, 173, 0.724);
+                    }
+                    #cuadro2{
+                        background-color: rgb(148, 123, 167);
+                    }
+                    #cuadro3{
+                        background-color: rgb(180, 192, 109);
+                    }
+                    #cuadro4{
+                        background-color: rgb(99, 182, 113);
+                        }
+                    #cuadro5{
+                      background-color: rgb(177, 179, 67);
+                            } 
+                #row1{
+                    background: green;
+                }
+                #row2{
+                    background: green;
+                }
+                #row3{
+                    background: green;
+                }
+                #row4{
+                    background: green;
+                }
+                #row5{
+                    background: green;
+                }
+                #row6{
+                    background: green;
+                }
+                #row7{
+                    background: green;
+              
+                margin-left:350px;  }
+               
+               
+                #xd1{   
+                    height:9.6rem;
+                    width: 7.9rem;
+                    margin-top: 10%;
+                    margin-left:30%;
+                    margin-right: 40%;
+                }
